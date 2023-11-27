@@ -1,0 +1,7 @@
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Practice_Pro\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.exe.config
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Practice_Pro\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Practice_Pro\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.pdb
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Practice_Pro\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.csproj.AssemblyReference.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Practice_Pro\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.csproj.CoreCompileInputs.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Practice_Pro\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Practice_Pro\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.pdb
